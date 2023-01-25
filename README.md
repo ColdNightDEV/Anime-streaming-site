@@ -1,4 +1,7 @@
-# ANIMEEZ NEW UI V2 IS HERE
+# Anime Streaming site by legadax NEW UI V2 IS HERE
+
+Inspiration and source cod eis taken from the AnimeEZ Repo
+
 **AnimeEZ - An Anime Streaming website (Demo - https://animeez.live) BTW ITS MADE IN HTML** <br>
 **Template Used -- https://github.com/codewithsadee/filmlane** <br>
 **API PROJECT URL -- [Click Here](https://github.com/dhvitOP/AnimeEZ-api)** <br>
